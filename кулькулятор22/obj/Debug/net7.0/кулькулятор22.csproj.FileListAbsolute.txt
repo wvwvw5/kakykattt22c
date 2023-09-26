@@ -1,0 +1,15 @@
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.csproj.AssemblyReference.cache
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.AssemblyInfoInputs.cache
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.AssemblyInfo.cs
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.csproj.CoreCompileInputs.cache
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/bin/Debug/net7.0/кулькулятор22
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/bin/Debug/net7.0/кулькулятор22.deps.json
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/bin/Debug/net7.0/кулькулятор22.runtimeconfig.json
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/bin/Debug/net7.0/кулькулятор22.dll
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/bin/Debug/net7.0/кулькулятор22.pdb
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.dll
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/refint/кулькулятор22.dll
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.pdb
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/кулькулятор22.genruntimeconfig.cache
+/Users/ekononykhin/Desktop/кулькулятор22/кулькулятор22/obj/Debug/net7.0/ref/кулькулятор22.dll
